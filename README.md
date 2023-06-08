@@ -13,6 +13,7 @@ To run the script, the following dependencies need to be installed:
 - PySpellChecker: `pip install pyspellchecker`
 - Gingerit: `pip install gingerit`
 - Transformers: `pip install transformers`
+- PyTorch: `pip install torch`
 
 ## Algorithm Steps
 
