@@ -1,6 +1,3 @@
-# Token-Healing
-
-Sure! Here's a README file that explains the token healing algorithm implemented in the provided Python script and provides instructions on how to set up and run the script:
 
 ---
 
